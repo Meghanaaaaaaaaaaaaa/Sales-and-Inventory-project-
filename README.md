@@ -38,7 +38,7 @@ CARDS:
 ## Dashboard
 <img width="1919" height="1006" alt="Screenshot 2025-07-29 175846" src="https://github.com/user-attachments/assets/ffb8250f-a190-4b68-9ba2-d8a5f7576cdf" />
 
-## Project InsightsProject Insights
+## Project Insights
 - Asparagus was the most sold and most expensive product, driving significant revenue
 - Lemon was the least sold product, indicating possible low demand or visibility
 - Core customers like Amina Loo and Corelia Brent accounted for the largest share of purchases
