@@ -20,4 +20,16 @@ CARDS:
 	ii) Total Discount Given 
 	iii) Total Quantity Sold
 
+-Dashboard Interaction <a href="https://github.com/Meghanaaaaaaaaaaaaa/Sales-and-Inventory-project-/blob/main/Sales%20and%20Inventory%20Analysis.pbix">View Dashboard</a>
+
+## Process
+-Imported and cleaned Sales, Product, and Customer data using Power Query
+-Built data model with relationships across key tables
+-Designed interactive visuals with slicers by product, customer, and country
+-Analyzed sales trends, customer behavior, and inventory performance
+-Validated data accuracy and optimized dashboard for user experience
+
+## Dashboard
+<img width="1919" height="1006" alt="Screenshot 2025-07-29 175846" src="https://github.com/user-attachments/assets/ffb8250f-a190-4b68-9ba2-d8a5f7576cdf" />
+
  
